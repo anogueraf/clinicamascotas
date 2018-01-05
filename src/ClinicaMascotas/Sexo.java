@@ -10,7 +10,7 @@ package ClinicaMascotas;
  * @author Maria Teresa
  */
 public enum Sexo {
-    Macho,
+    Macho, // Cambiar por Hombre
     Hembra
-    
+
 }
