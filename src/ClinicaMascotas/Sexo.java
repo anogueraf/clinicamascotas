@@ -11,6 +11,6 @@ package ClinicaMascotas;
  */
 public enum Sexo {
     Macho, // Cambiar por Hombre
-    Hembra
-
+    Hembra,
+    Neutro
 }
